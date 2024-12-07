@@ -26,10 +26,7 @@ This app is a Streamlit-based application that integrates MobileNetV2 and a CIFA
 ### Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-   ```
+
 2. **Create and activate a virtual environment**:
    ```bash
    python -m venv venv
